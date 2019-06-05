@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Timer
+comment1.params=st_
+comment1.target=Timer(Spielsteuerung)
+comment2.params=now
+comment2.target=void\ handle(long)
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=void\ stop()
+numComments=5

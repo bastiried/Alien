@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Spielsteuerung
+comment0.text=\r\n\ Die\ Klasse\ Spielsteuerung\r\n
+comment1.params=flaeche_
+comment1.target=Spielsteuerung(javafx.scene.layout.Pane)
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ Die\ Methode\ update\ wird\ immer\ vom\ Timer\ aufgerufen.\r\n
+comment3.params=
+comment3.target=void\ istGewonnen()
+comment4.params=ke
+comment4.target=void\ gedrueckt(javafx.scene.input.KeyEvent)
+comment4.text=\r\n\ Tastensteuerung\r\n
+comment5.params=ke
+comment5.target=void\ losgelassen(javafx.scene.input.KeyEvent)
+numComments=6

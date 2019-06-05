@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Alien1
+comment1.params=flaeche_\ x_\ y_
+comment1.target=Alien1(javafx.scene.layout.Pane,\ double,\ double)
+comment2.params=
+comment2.target=void\ getroffen()
+numComments=3

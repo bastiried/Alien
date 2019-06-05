@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Alien3
+comment1.params=flaeche_\ x_\ y_
+comment1.target=Alien3(javafx.scene.layout.Pane,\ double,\ double)
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Kugel
+comment1.params=flaeche_\ x_\ y_
+comment1.target=Kugel(javafx.scene.layout.Pane,\ double,\ double)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=x_\ y_
+comment3.target=void\ setPosition(double,\ double)
+comment4.params=v_
+comment4.target=void\ setV(double)
+comment5.params=
+comment5.target=double\ getRadius()
+comment6.params=
+comment6.target=void\ sichtbarMachen()
+comment7.params=
+comment7.target=void\ unsichtbarMachen()
+comment8.params=alien
+comment8.target=boolean\ trifft(Alien)
+numComments=9

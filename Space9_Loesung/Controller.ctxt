@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Controller
+comment1.params=
+comment1.target=void\ initialize()
+comment2.params=scene_
+comment2.target=void\ setScene(javafx.scene.Scene)
+comment3.params=
+comment3.target=void\ steuerungEinrichten()
+numComments=4
